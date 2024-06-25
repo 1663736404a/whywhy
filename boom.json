@@ -1,5 +1,5 @@
 {
-    "spider": "./620pg.jar",
+    "spider": "./pg.jar",
     "lives": [
         {
             "name": "tv1",
