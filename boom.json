@@ -138,7 +138,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "yydsys",
@@ -149,7 +149,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "omii",
@@ -171,7 +171,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$proxy$$$1"
+            "ext": "./lib/tokenm.json$$$noproxy$$$1"
         },
         {
             "key": "Wo4k",
@@ -182,7 +182,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://www.wo4k.com/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Wobg",
@@ -193,7 +193,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "Libvio",
@@ -234,7 +234,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"
+            "ext": "./lib/tokenm.json$$$https://www.yinfans.me/$$$noproxy$$$1"
         },
         {
             "key": "Bt0",
@@ -245,7 +245,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$null$$$proxy$$$1",
+            "ext": "./lib/tokenm.json$$$null$$$noproxy$$$1",
             "style": {
                 "type": "list",
                 "ratio": 1.1
